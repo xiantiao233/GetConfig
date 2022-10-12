@@ -1,0 +1,4 @@
+name: GetConfig
+main: top.xiantiao.getconfig.Main
+version: 1
+author: xiantiao
